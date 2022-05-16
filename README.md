@@ -1,1 +1,1 @@
-# Wordle-Clonde
+# Wordle-Clone
